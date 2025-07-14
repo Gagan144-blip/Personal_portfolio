@@ -1,0 +1,32 @@
+.bio {
+    height:50px;
+    width:500px;
+    border:2px solid black;
+   background-image:linear-gradient(to right,#00c6ff,#0072ff);
+    color:black;
+    display:flex;
+    justify-content :center;
+    margin-left: 350px;
+    margin-bottom:75px;
+    text-align:center;
+    align-items: center;
+    border-radius:20px;
+}
+/* h1 {
+    text-align: center;
+    justify-content: center;
+    display: flex; */
+.details {
+    margin-top: 10px;
+    margin-left:350px;
+    height:50px;
+    width:500px;
+    border:2px solid black;
+    background-image:linear-gradient(to right,#00c6ff,#0072ff);
+    color:black;
+    display:flex;
+    text-align:right;
+    align-items: center;
+    justify-content: center;
+    border-radius:20px;
+}

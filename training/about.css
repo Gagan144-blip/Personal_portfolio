@@ -1,0 +1,40 @@
+/* .nav_bar {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(0, 35, 45);
+    margin-left: 65px;
+    display:flex;
+    align-items: center;
+    justify-content:space-evenly;
+    height:45px;
+}
+.name {
+    margin-right:500px;    
+    font-size:25px;
+                               
+}
+.body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    font-family: Arial,sans-serif;
+}
+.image {
+     background-image: url("background.jpg");  /* About-section also*/
+    /* background-size:cover;
+    height:350px;
+    position: relative;
+}
+.border:hover {
+    border: 1.5px solid black;
+}
+.border h4 {
+    border-bottom: 1.5px solid transparent;
+}
+.border h4:hover {
+    border-bottom: 1.5px solid black;
+}
+a{
+    color:Black;
+    text-decoration:none;
+} */ */
